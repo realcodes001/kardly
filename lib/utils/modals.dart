@@ -1019,7 +1019,7 @@ void contactUsModal(BuildContext context) {
               mainAxisAlignment: MainAxisAlignment.end,
               children: [
                 Container(
-                  padding: const EdgeInsets.all(6),
+                  padding: const EdgeInsets.all(4),
                   width: 40,
                   height: 40,
                   decoration: BoxDecoration(
